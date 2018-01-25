@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="31" passed="31">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13609" started-at="2018-01-25T05:14:56Z" finished-at="2018-01-25T05:15:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13609" started-at="2018-01-25T05:14:56Z" finished-at="2018-01-25T05:15:09Z">
+      <class name="com.groupid.firstmavenproject.CCMApiTest">
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="849" started-at="2018-01-25T10:44:56Z" finished-at="2018-01-25T10:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="brandType()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="brandType" duration-ms="3652" started-at="2018-01-25T10:44:57Z" finished-at="2018-01-25T10:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brandType -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:00Z" finished-at="2018-01-25T10:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="getcountry()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="getcountry" duration-ms="255" started-at="2018-01-25T10:45:00Z" finished-at="2018-01-25T10:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcountry -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:00Z" finished-at="2018-01-25T10:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="categoryType()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="categoryType" duration-ms="357" started-at="2018-01-25T10:45:00Z" finished-at="2018-01-25T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoryType -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:01Z" finished-at="2018-01-25T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="submitFeedback()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="submitFeedback" duration-ms="374" started-at="2018-01-25T10:45:01Z" finished-at="2018-01-25T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFeedback -->
+        <test-method status="PASS" signature="registerUser()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="registerUser" duration-ms="249" started-at="2018-01-25T10:45:01Z" finished-at="2018-01-25T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:01Z" finished-at="2018-01-25T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="3" started-at="2018-01-25T10:45:01Z" finished-at="2018-01-25T10:45:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="ccmLogin()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="ccmLogin" duration-ms="1511" started-at="2018-01-25T10:45:01Z" finished-at="2018-01-25T10:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ccmLogin -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:03Z" finished-at="2018-01-25T10:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="myRewards()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="myRewards" duration-ms="239" started-at="2018-01-25T10:45:03Z" finished-at="2018-01-25T10:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myRewards -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:03Z" finished-at="2018-01-25T10:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="updatedevicedetails()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="updatedevicedetails" duration-ms="211" started-at="2018-01-25T10:45:03Z" finished-at="2018-01-25T10:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatedevicedetails -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:03Z" finished-at="2018-01-25T10:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="forgotpassword()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="forgotpassword" duration-ms="223" started-at="2018-01-25T10:45:03Z" finished-at="2018-01-25T10:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:04Z" finished-at="2018-01-25T10:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="myprofile()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="myprofile" duration-ms="208" started-at="2018-01-25T10:45:04Z" finished-at="2018-01-25T10:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myprofile -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:04Z" finished-at="2018-01-25T10:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="updateprofile()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="updateprofile" duration-ms="215" started-at="2018-01-25T10:45:04Z" finished-at="2018-01-25T10:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateprofile -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:04Z" finished-at="2018-01-25T10:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="changepassword()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="changepassword" duration-ms="409" started-at="2018-01-25T10:45:04Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changepassword -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="sendverificationlink()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="sendverificationlink" duration-ms="234" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendverificationlink -->
+        <test-method status="PASS" signature="productlist()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="productlist" duration-ms="492" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productlist -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="productimage()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="productimage" duration-ms="238" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productimage -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="basicpages()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="basicpages" duration-ms="427" started-at="2018-01-25T10:45:05Z" finished-at="2018-01-25T10:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicpages -->
+        <test-method status="PASS" signature="getfeedbacktype()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="getfeedbacktype" duration-ms="195" started-at="2018-01-25T10:45:06Z" finished-at="2018-01-25T10:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getfeedbacktype -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:06Z" finished-at="2018-01-25T10:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="giftdetail()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="giftdetail" duration-ms="204" started-at="2018-01-25T10:45:06Z" finished-at="2018-01-25T10:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftdetail -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:06Z" finished-at="2018-01-25T10:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:06Z" finished-at="2018-01-25T10:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="mypoints()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="mypoints" duration-ms="209" started-at="2018-01-25T10:45:06Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mypoints -->
+        <test-method status="PASS" signature="mygifts()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="mygifts" duration-ms="221" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mygifts -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="advertisementsdetail()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="advertisementsdetail" duration-ms="241" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advertisementsdetail -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="advertisementsdelete()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="advertisementsdelete" duration-ms="238" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advertisementsdelete -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="promotionlist()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="promotionlist" duration-ms="196" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promotionlist -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="promotionproductlist()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="promotionproductlist" duration-ms="194" started-at="2018-01-25T10:45:07Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- promotionproductlist -->
+        <test-method status="PASS" signature="userpoint()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="userpoint" duration-ms="234" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userpoint -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="usergiftlist()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="usergiftlist" duration-ms="217" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usergiftlist -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="productstore()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="productstore" duration-ms="247" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productstore -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="advertisementgetproduct()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="advertisementgetproduct" duration-ms="198" started-at="2018-01-25T10:45:08Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advertisementgetproduct -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:09Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="randomadvertisement()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="randomadvertisement" duration-ms="246" started-at="2018-01-25T10:45:09Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomadvertisement -->
+        <test-method status="PASS" signature="advertisementlist()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="advertisementlist" duration-ms="256" started-at="2018-01-25T10:45:09Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- advertisementlist -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="0" started-at="2018-01-25T10:45:09Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="baseUrl" is-config="true" duration-ms="1" started-at="2018-01-25T10:45:09Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="logOut()[pri:0, instance:com.groupid.firstmavenproject.CCMApiTest@4667ae56]" name="logOut" duration-ms="235" started-at="2018-01-25T10:45:09Z" finished-at="2018-01-25T10:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- com.groupid.firstmavenproject.CCMApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
