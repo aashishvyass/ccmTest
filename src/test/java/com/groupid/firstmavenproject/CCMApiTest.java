@@ -1143,7 +1143,7 @@ public class CCMApiTest {
 		} catch (AssertionError e) {
 			int statusCode = response.getStatusCode();
 			System.out.println(statusCode);
-			String responseBody = response.getBody().asString();
+		String responseBody = response.getBody().asString();
 			System.out.println("Advertisement get product API failed with body:" + responseBody);
 		}
 	}
