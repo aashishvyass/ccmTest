@@ -1133,7 +1133,7 @@ public class CCMApiTest {
 
 			response = request.post("/product/list");
 
-			int statusCode = response.getStatusCode();
+		int statusCode = response.getStatusCode();
 			String statusBody = response.getBody().asString();
 
 			Assert.assertEquals(statusCode, 200);
