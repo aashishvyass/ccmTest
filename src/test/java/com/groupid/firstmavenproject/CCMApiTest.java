@@ -1144,7 +1144,7 @@ public class CCMApiTest {
 			int statusCode = response.getStatusCode();
 			System.out.println(statusCode);
 		 String responseBody = response.getBody().asString();
-			System.out.println("Advertisement get product API failed with body:" + responseBody);
+		System.out.println("Advertisement get product API failed with body:" + responseBody);
 		}
 	}
 
