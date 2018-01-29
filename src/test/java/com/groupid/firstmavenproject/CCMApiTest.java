@@ -49,7 +49,7 @@ public class CCMApiTest {
 			System.out.println(statusCode);
 			String responseBody = response.getBody().asString();
 			System.out.println("Brand Type API body  : " + responseBody);
-			throw e;
+			
 		}
 	}
 
